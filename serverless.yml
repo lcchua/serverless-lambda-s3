@@ -12,7 +12,7 @@ provider:
 
 functions:
   processCSV:
-    name: processCSV
+    name: lcchua-processCSV
     handler: handler.processCSV
     events:
       - s3:
