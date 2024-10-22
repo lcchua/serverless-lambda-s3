@@ -58,5 +58,5 @@ npm uninstall -g serverless
 
 rm -rf serverless-lambda-s3 (optional)
 
-<Cleanup AWS resources by deleting the S3 bucket and Cloudformation stack>
+<Cleanup AWS resources by deleting the Cloudformation stack>
 ```
