@@ -31,7 +31,8 @@ Josh                Stevens             josh.stevens@gmail.com                  
 1. Check that Serverless Framework is installed
 ```bash
 serverless --version
-``` else,
+```
+else,
 ```bash
 npm nstall -g serverless
 ```
